@@ -1,0 +1,37 @@
+
+# Private / Local
+private_*
+local_*
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# Idea
+.idea/
+out/
+*.iml
+
+# VS Code
+.vscode/
+
+# Runtime
+log/
+*.log
+*.hprof
+.attach_pid*
+hs_err_pid*
+
+# Other Tools
+node_modules/
+.java-version
+package-lock.json
+
+# System Files
+.DS_Store
+Thumbs.db
